@@ -1,1 +1,1 @@
-the testRepository is ready to use
+the testRepository is ready
